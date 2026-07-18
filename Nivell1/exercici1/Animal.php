@@ -11,17 +11,8 @@ abstract class Animal {
         return $this->name;
     }
 
-    abstract public function Speak();
+    abstract public function speak();
 }
 
-class Dog extends Animal{
-    public function Speak() : void {
-        echo "Woof" . PHP_EOL;
-    }
-}
 
-class Cat extends Animal{
-    public function Speak(){
-        echo "Miau" . PHP_EOL;
-    }
-}
+
