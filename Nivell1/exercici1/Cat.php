@@ -1,5 +1,5 @@
 <?php
-
+declare(strict_types=1);
 class Cat extends Animal{
     public function speak(){
         echo "Miau" . PHP_EOL;

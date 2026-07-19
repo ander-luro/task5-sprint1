@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 require_once 'Animal.php';
 require_once 'Dog.php';
 require_once 'Cat.php';
