@@ -7,4 +7,4 @@ PHP exercises focused on OOP concepts including abstraction
 - PHP
 
 ## 🚀 Installation
-- Clone the repository: git clone https://github.com/ander-luro/tasca5-sprint1.git
+- Clone the repository: git clone https://github.com/ander-luro/task5-sprint1.git
