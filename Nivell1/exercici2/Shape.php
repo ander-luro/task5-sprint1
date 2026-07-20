@@ -5,8 +5,8 @@ abstract class Shape {
     protected float $height;
     protected float $width;
 
-    public function __construct(float $hight, float $width){
-        $this->height = $hight;
+    public function __construct(float $height, float $width){
+        $this->height = $height;
         $this->width = $width;
     }
 
